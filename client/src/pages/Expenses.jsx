@@ -39,7 +39,7 @@ function Expenses() {
   return (
     <div className="profile">
       <header className="profileHeader">
-        <p className="pageHeader">Expense Tracker</p>
+        <p className="pageHeader">Gelir Gider Takip</p>
         <button className="logOut" type="logout" onClick={onLogout}>
           Logout
         </button>
